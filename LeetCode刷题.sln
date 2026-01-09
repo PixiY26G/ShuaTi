@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hot_链表_回文链表", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hot_链表_环形链表", "hot_链表_环形链表\hot_链表_环形链表.csproj", "{0ED53B42-4B38-4C9D-BA31-4E0F50FF473C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hot_链表_环形链表2", "hot_链表_环形链表2\hot_链表_环形链表2.csproj", "{53847FF6-09BA-479D-9797-547286C94B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hot_链表_合并两个有序链表", "hot_链表_合并两个有序链表\hot_链表_合并两个有序链表.csproj", "{6B46ECED-EDE2-4896-866F-923D48F3D979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +319,14 @@ Global
 		{0ED53B42-4B38-4C9D-BA31-4E0F50FF473C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ED53B42-4B38-4C9D-BA31-4E0F50FF473C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ED53B42-4B38-4C9D-BA31-4E0F50FF473C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53847FF6-09BA-479D-9797-547286C94B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53847FF6-09BA-479D-9797-547286C94B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53847FF6-09BA-479D-9797-547286C94B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53847FF6-09BA-479D-9797-547286C94B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B46ECED-EDE2-4896-866F-923D48F3D979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B46ECED-EDE2-4896-866F-923D48F3D979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B46ECED-EDE2-4896-866F-923D48F3D979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B46ECED-EDE2-4896-866F-923D48F3D979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
